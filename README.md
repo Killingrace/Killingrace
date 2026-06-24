@@ -49,8 +49,8 @@ I am a DevOps Engineer specializing in infrastructure automation, containerizati
   Currently developing a tool built with Python (leveraging pexpect and WebSockets) that utilizes LLMs for automated, deep diagnostics of Linux systems, streamlining the troubleshooting process for system administrators.
 
 ### 📫 Let's Connect
-* **LinkedIn:** [Dmytro Shutko](insert_your_link_here)
-* **Email:** [Drop me a line](mailto:insert_your_email_here)
+* **LinkedIn:** [Dmytro Shutko](https://www.linkedin.com/in/dmytro-shutko/)
+* **Email:** [Drop me a line](mailto:dmytro.shutko@gmail.com)
 
 ---
 *Languages: 🇺🇦 Ukrainian (Native) | 🇬🇧 English (B2) | 🇵🇱 Polish (C1)*
